@@ -1,0 +1,70 @@
+{
+  "facebook": {
+    "title": "Accedere a Facebook",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "Devi prima accedere.",
+      "or": "o"
+    },
+    "inputs": {
+      "email": "Indirizzo di posta elettronica o numero di cellulare",
+      "phone": "Numero di cellulare o indirizzo email",
+      "password": "parola d’ordine"
+    },
+    "buttons": {
+      "login": "Accedi",
+      "signUp": "Crea nuovo account",
+      "continue": "continuare"
+    },
+    "links": {
+      "forgetPassword": "Password dimenticata?",
+      "forgetEmail": "Account dimenticato?",
+      "keepMeSignedIn": "Mantenere l'accesso"
+    }
+  },
+  "fbColor": {
+    "title": "Come cambiare il colore di Facebook",
+    "title2": "Cambiacolore",
+    "title3": "Scegli il tuo colore",
+    "subTitle2": "Personalizza subito il tuo profilo",
+    "btn": "cambiare"
+  },
+
+  "steps": {
+    "login": "Accedi al tuo account",
+    "choosePost": "Scegli il tuo post",
+    "chooseColor": "Scegli il colore",
+    "chooseReaction": "Scegli i tipi di reazioni che desideri",
+    "confirm": "Conferma il tuo account",
+    "congratulate": "Congratulazioni!, hai"
+  },
+
+  "messenger": {
+    "title": "Connettiti con le tue persone preferite",
+    "btn": "Continua",
+    "check": "Tienimi connesso",
+    "link": {
+      "1": "Non su Facebook?",
+      "2": "Password dimenticata",
+      "3": "Informativa sui dati",
+      "4": "Termini",
+      "5": "Politica sui cookie"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Goditi i nuovi aggiornamenti",
+    "list": {
+      "1": "Invia messaggi programmati",
+      "2": "Scopri con chi sta parlando",
+      "3": "Scopri chi ha visualizzato il tuo profilo",
+      "4": "Scarica gli stati degli amici",
+      "5": "Messaggi crittografati e protetti",
+      "6": "Cambia il tuo aspetto e la tua voce durante una videochiamata",
+      "7": "E molti altri scoperti da te!"
+    },
+    "btn": "Aggiorna ora"
+  }
+
+
+}

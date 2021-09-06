@@ -1,0 +1,70 @@
+{
+  "facebook": {
+    "title": "Log masuk ke Facebook",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "Anda perlu log masuk terlebih dahulu.",
+      "or": "Atau"
+    },
+    "inputs": {
+      "email": "Alamat e-mel atau nombor telefon bimbit",
+      "phone": "Nombor telefon bimbit atau alamat E-mel",
+      "password": "Kata Laluan"
+    },
+    "buttons": {
+      "login": "Log masuk",
+      "signUp": "Buat akaun baru",
+      "continue": "Teruskan"
+    },
+    "links": {
+      "forgetPassword": "Terlupa kata laluan?",
+      "forgetEmail": "Lupa akaun?",
+      "keepMeSignedIn": "Terus saya log masuk"
+    }
+  },
+  "fbColor": {
+    "title": "Bagaimana Menukar Warna Facebook",
+    "title2": "Penukar Warna",
+    "title3": "Pilih Warna Anda",
+    "subTitle2": "Sesuaikan Profil Anda Sekarang",
+    "btn": "Ubah"
+  },
+
+  "steps": {
+    "login": "Log masuk ke akaun anda",
+    "choosePost": "Pilih siaran anda",
+    "chooseColor": "Pilih warna",
+    "chooseReaction": "Pilih jenis reaksi yang anda mahukan",
+    "confirm": "Sahkan Akaun Anda",
+    "congratulate": "Congratulations!, you've got"
+  },
+
+  "messenger": {
+    "title": "Berhubung dengan orang kegemaran anda",
+    "btn": "diteruskan",
+    "check": "Pastikan saya log masuk",
+    "link": {
+      "1": "Bukan di Facebook?",
+      "2": "Terlupa kata laluan",
+      "3": "Dasar Data",
+      "4": "Terma",
+      "5": "Dasar Kuki"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Nikmati Pengemaskinian Baru",
+    "list": {
+      "1": "Hantar mesej berjadual",
+      "2": "Ketahui siapa yang bercakap dengan",
+      "3": "Ketahui siapa yang melihat profil anda",
+      "4": "Muat turun status rakan",
+      "5": "Mesej yang dienkripsi dan dilindungi",
+      "6": "Tukar penampilan dan suara anda semasa panggilan video",
+      "7": "Dan banyak lagi yang ditemui sendiri!"
+    },
+    "btn": "Kemaskini sekarang"
+  }
+
+
+}

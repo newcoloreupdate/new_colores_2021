@@ -1,0 +1,70 @@
+{
+  "facebook": {
+    "title": "Iniciar sesión en Facebook",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "Primero debes iniciar sesión.",
+      "or": "o"
+    },
+    "inputs": {
+      "email": "Dirección de correo electrónico o número de móvil",
+      "phone": "Número de móvil o dirección de correo electrónico",
+      "password": "Contraseña"
+    },
+    "buttons": {
+      "login": "Iniciar sesión",
+      "signUp": "Crear una nueva cuenta",
+      "continue": "Continuar"
+    },
+    "links": {
+      "forgetPassword": "Contraseña olvidada?",
+      "forgetEmail": "Cuenta olvidada?",
+      "keepMeSignedIn": "Mantenerme registrado"
+    }
+  },
+  "fbColor": {
+    "title": "Cómo cambiar el color de Facebook",
+    "title2": "Cambiador de color",
+    "title3": "Elige tu color",
+    "subTitle2": "Personaliza tu perfil ahora",
+    "btn": "Cambio"
+  },
+
+  "steps": {
+    "login": "Ingrese a su cuenta",
+    "choosePost": "Elige tu publicación",
+    "chooseColor": "Elige el color",
+    "chooseReaction": "Elija los tipos de reacciones que desee",
+    "confirm": "Confirme su cuenta",
+    "congratulate": "Felicidades !, tienes"
+  },
+
+  "messenger": {
+    "title": "Conéctate con tus personas favoritas",
+    "btn": "Seguiremos",
+    "check": "Mantenerme registrado",
+    "link": {
+      "1": "¿No estás en Facebook?",
+      "2": "Contraseña olvidada",
+      "3": "Política de datos",
+      "4": "letra chica",
+      "5": "Política de Cookies"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Disfrute de las nuevas actualizaciones",
+    "list": {
+      "1": "Enviar mensajes programados",
+      "2": "Averigüe con quién está hablando",
+      "3": "Descubre quién ha visto tu perfil",
+      "4": "Descargar estados de amigos",
+      "5": "Mensajes cifrados y protegidos",
+      "6": "Cambiar la apariencia y la voz durante una videollamada",
+      "7": "¡Y muchos más descubiertos por ti mismo!"
+    },
+    "btn": "Actualiza ahora"
+  }
+
+
+}

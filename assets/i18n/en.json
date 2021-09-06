@@ -1,0 +1,69 @@
+{
+  "facebook": {
+    "title": "Log in to Facebook",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "You need to log in first.",
+      "or": "or"
+    },
+    "inputs": {
+      "email": "Email address or mobile number",
+      "phone": "Mobile number or Email address",
+      "password": "Password"
+    },
+    "buttons": {
+      "login": "Log In",
+      "signUp": "Create New Account",
+      "continue": "Continue"
+    },
+    "links": {
+      "forgetPassword": "Forgotten password?",
+      "forgetEmail": "Forgotten account?",
+      "keepMeSignedIn": "Keep me signed in"
+    }
+  },
+  "fbColor": {
+    "title": "How Change Facebook Color",
+    "title2": "Color Changer",
+    "title3": "Choose Your Color",
+    "subTitle2": "Customize Your Profile Now",
+    "btn": "Change"
+  },
+
+  "steps": {
+    "login": "Login to your account",
+    "choosePost": "Choose your post",
+    "chooseColor": "Choose the color",
+    "chooseReaction": "Choose the types of reactions that you want",
+    "confirm": "Confirm Your Account",
+    "congratulate": "Congratulations!, you've got"
+  },
+
+  "messenger": {
+    "title": "Connect with your favorite people",
+    "btn": "Continue",
+    "check": "Stay logged in",
+    "link": {
+      "1": "Don't have a Facebook account?",
+      "2": "I forgot the password",
+      "3": "Data & Policy",
+      "4": "Terms",
+      "5": "Cookie Policy"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Enjoy the new updates",
+    "list": {
+      "1": "Send scheduled messages",
+      "2": "Find out who's talking to who ?",
+      "3": "Find out who viewed your profile",
+      "4": "See Friends Status",
+      "5": "Protected and encrypted messages",
+      "6": "Change your voice in voice calls",
+      "7": "And discover more on your own"
+    },
+    "btn": "Update now"
+  }
+
+}

@@ -1,0 +1,70 @@
+{
+  "facebook": {
+    "title": "Facebook'a giriş yapın",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "Önce giriş yapman gerekiyor.",
+      "or": "Veya"
+    },
+    "inputs": {
+      "email": "E-posta adresi veya cep telefonu numarası",
+      "phone": "Cep telefonu numarası veya E-posta adresi",
+      "password": "Parola"
+    },
+    "buttons": {
+      "login": "Oturum aç",
+      "signUp": "Yeni Hesap Oluştur",
+      "continue": "Devam"
+    },
+    "links": {
+      "forgetPassword": "Unutulan şifre mi?",
+      "forgetEmail": "Unutulmuş hesap mı?",
+      "keepMeSignedIn": "Oturummu altında tut"
+    }
+  },
+  "fbColor": {
+    "title": "Facebook Rengini Nasıl Değiştirirsiniz?",
+    "title2": "Renk Değiştirici",
+    "title3": "Renginizi Seçin",
+    "subTitle2": "Profilinizi Şimdi Özelleştirin",
+    "btn": "Değiştirmek"
+  },
+
+  "steps": {
+    "login": "Hesabınıza giriş yapın",
+    "choosePost": "Gönderinizi seçin",
+    "chooseColor": "Rengi seçin",
+    "chooseReaction": "İstediğiniz tepki türlerini seçin",
+    "confirm": "Hesabınızı Onaylayın",
+    "congratulate": "Tebrikler!, var"
+  },
+
+  "messenger": {
+    "title": "En sevdiğiniz kişilerle bağlantı kurun",
+    "btn": "Devam et",
+    "check": "Oturumumu açık tut",
+    "link": {
+      "1": "Facebook'ta değil mi?",
+      "2": "Unutulan Şifre",
+      "3": "Veri Politikası",
+      "4": "Şartlar",
+      "5": "Çerez Politikası"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Yeni Güncellemelerin Keyfini Çıkarın",
+    "list": {
+      "1": "Planlanmış mesajlar gönder",
+      "2": "Kiminle konuştuğunu bul",
+      "3": "Profilinizi kimin görüntülediğini öğrenin",
+      "4": "Arkadaş durumlarını indir",
+      "5": "Şifreli ve korumalı mesajlar",
+      "6": "Görüntülü arama sırasında görünümünüzü ve sesinizi değiştirin",
+      "7": "Ve daha birçok kendiniz keşfettiniz!"
+    },
+    "btn": "Şimdi güncelle"
+  }
+
+
+}

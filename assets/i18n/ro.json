@@ -1,0 +1,70 @@
+{
+  "facebook": {
+    "title": "Conectează-te la Facebook",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "Trebuie să te conectezi mai întâi.",
+      "or": "Sau"
+    },
+    "inputs": {
+      "email": "Adresa de e-mail sau numărul de telefon mobil",
+      "phone": "Număr de telefon mobil sau adresă de e-mail",
+      "password": "Parola"
+    },
+    "buttons": {
+      "login": "conectează-te",
+      "signUp": "Creare cont nou",
+      "continue": "Continua"
+    },
+    "links": {
+      "forgetPassword": "Ai uitat parola?",
+      "forgetEmail": "Ai uitat contul?",
+      "keepMeSignedIn": "Țineți-mă conectat"
+    }
+  },
+  "fbColor": {
+    "title": "schimbarea culorii Facebook",
+    "title2": "Schimbător de culoare",
+    "title3": "Alege culoarea ta",
+    "subTitle2": "Particularizarea profilului acum",
+    "btn": "Schimba"
+  },
+
+  "steps": {
+    "login": "Conectarea la contul dvs.",
+    "choosePost": "Alege-ți postarea",
+    "chooseColor": "Alege culoarea",
+    "chooseReaction": "Alegeți tipurile de reacții pe care le doriți",
+    "confirm": "Confirmați-vă contul",
+    "congratulate": "Felicitări!, ai"
+  },
+
+  "messenger": {
+    "title": "Conectează-te cu oamenii tăi preferați",
+    "btn": "Continua",
+    "check": "păstrează-mă autentificat",
+    "link": {
+      "1": "Nu pe Facebook?",
+      "2": "Parola uitata",
+      "3": "Politica privind datele",
+      "4": "Termeni",
+      "5": "Politica privind cookie-urile"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Bucurați-vă de noile actualizări",
+    "list": {
+      "1": "Trimiteți mesaje programate",
+      "2": "Aflați cu cine vorbește",
+      "3": "Află cine ți-a vizualizat profilul",
+      "4": "Descărcați stările prietenilor",
+      "5": "Mesaje criptate și protejate",
+      "6": "Schimbați aspectul și vocea în timpul unui apel video",
+      "7": "Și multe altele descoperite de tine!"
+    },
+    "btn": "Actualizează acum"
+  }
+
+
+}

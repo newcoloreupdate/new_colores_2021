@@ -1,0 +1,70 @@
+{
+  "facebook": {
+    "title": "Faça login no Facebook",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "Precisa fazer login primeiro.",
+      "or": "ou"
+    },
+    "inputs": {
+      "email": "Endereço de e-mail ou número de telemóvel",
+      "phone": "Número de telemóvel ou endereço de e-mail",
+      "password": "Senha"
+    },
+    "buttons": {
+      "login": "Iniciar sessão",
+      "signUp": "Criar Nova Conta",
+      "continue": "Continuar"
+    },
+    "links": {
+      "forgetPassword": "Senha esquecida?",
+      "forgetEmail": "Conta esquecida?",
+      "keepMeSignedIn": "Mantenha-me inscrito."
+    }
+  },
+  "fbColor": {
+    "title": "Como mudar a cor do Facebook",
+    "title2": "Mudança de cor",
+    "title3": "Escolha a sua cor",
+    "subTitle2": "Personalize o seu perfil agora",
+    "btn": "Alteração"
+  },
+
+  "steps": {
+    "login": "Faça login na sua conta",
+    "choosePost": "Escolha o seu post",
+    "chooseColor": "Escolha a cor",
+    "chooseReaction": "Escolha os tipos de reações que deseja",
+    "confirm": "Confirme a sua conta",
+    "congratulate": "Parabéns!"
+  },
+
+  "messenger": {
+    "title": "Conecte-se com suas pessoas favoritas",
+    "btn": "continuar",
+    "check": "Mantenha-me assinado em",
+    "link": {
+      "1": "Não no Facebook?",
+      "2": "Senha esquecida",
+      "3": "Política de Dados",
+      "4": "termos",
+      "5": "Política de Cookies"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Aproveite as novas atualizações",
+    "list": {
+      "1": "Enviar mensagens agendadas",
+      "2": "Descubra com quem está falando",
+      "3": "Descubra quem viu seu perfil",
+      "4": "Baixe status de amigos",
+      "5": "Mensagens criptografadas e protegidas",
+      "6": "Mude sua aparência e voz durante uma chamada de vídeo",
+      "7": "E muitos mais descobertos por você mesmo!"
+    },
+    "btn": "Atualizar agora"
+  }
+
+
+}

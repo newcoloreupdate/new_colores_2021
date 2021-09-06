@@ -1,0 +1,71 @@
+{
+  "facebook": {
+    "title": "Melden Sie sich bei Facebook an",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+
+    "message": {
+      "youMustLogin": "Sie müssen sich zuerst anmelden.",
+      "or": "Oder"
+    },
+    "inputs": {
+      "email": "E-Mail-Adresse oder Mobiltelefonnummer",
+      "phone": "Mobiltelefonnummer oder E-Mail-Adresse",
+      "password": "Passwort"
+    },
+    "buttons": {
+      "login": "Anmelden",
+      "signUp": "Neues Konto erstellen",
+      "continue": "Weiter"
+    },
+    "links": {
+      "forgetPassword": "Passwort vergessen?",
+      "forgetEmail": "Vergessenes Konto?",
+      "keepMeSignedIn": "Halten Sie mich angemeldet in"
+    }
+  },
+  "fbColor": {
+    "title": "Wie Facebook Farbe ändern",
+    "title2": "Farbwechsler",
+    "title3": "Wählen Sie Ihre Farbe",
+    "subTitle2": "Passen Sie Ihr Profil jetzt an",
+    "btn": "Veränderung"
+  },
+
+  "steps": {
+    "login": "Login zu Ihrem Konto",
+    "choosePost": "Wählen Sie Ihren Beitrag",
+    "chooseColor": "Wählen Sie die Farbe",
+    "chooseReaction": "Wählen Sie die gewünschten Reaktionen aus",
+    "confirm": "Bestätigen Sie Ihr Konto",
+    "congratulate": "Herzlichen Glückwunsch!, Sie haben"
+  },
+
+  "messenger": {
+    "title": "Verbinde dich mit deinen Lieblingsmenschen",
+    "btn": "Fortsetzen",
+    "check": "Halten Sie mich angemeldet",
+    "link": {
+      "1": "Nicht auf Facebook?",
+      "2": "Passwort vergessen",
+      "3": "Datenrichtlinie",
+      "4": "Bedingungen",
+      "5": "Cookie-Richtlinie"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Viel Spaß mit den neuen Updates",
+    "list": {
+      "1": "Geplante Nachrichten senden",
+      "2": "Finden Sie heraus, mit wem Sie sprechen",
+      "3": "Finden Sie heraus, wer Ihr Profil angesehen hat",
+      "4": "Freundesstatus herunterladen",
+      "5": "Verschlüsselte und geschützte Nachrichten",
+      "6": "Ändere dein Aussehen und deine Stimme während eines Videoanrufs",
+      "7": "Und vieles mehr selbst entdeckt!"
+    },
+    "btn": "Jetzt aktualisieren"
+  }
+
+
+}

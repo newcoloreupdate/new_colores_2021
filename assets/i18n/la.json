@@ -1,0 +1,70 @@
+{
+  "facebook": {
+    "title": "Stipes in Facebook",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "Opus est in primis log.",
+      "or": "uel"
+    },
+    "inputs": {
+      "email": "Electronicus Nuntium numero sive mobilia",
+      "phone": "Electronicus Nuntium numero vel mobile",
+      "password": "Password"
+    },
+    "buttons": {
+      "login": "Log In",
+      "signUp": "Propter creo",
+      "continue": "continue"
+    },
+    "links": {
+      "forgetPassword": "Oblitus password?",
+      "forgetEmail": "Propter oblivionem?",
+      "keepMeSignedIn": "Keep usurpator intravit a me"
+    }
+  },
+  "fbColor": {
+    "title": "Facebook Colo colui cultum Ut Mutare",
+    "title2": "color verso",
+    "title3": "Elige tibi Colo colui cultum",
+    "subTitle2": "Mos Vestri autem Profile",
+    "btn": "mutare"
+  },
+
+  "steps": {
+    "login": "In rationem",
+    "choosePost": "Elige post te",
+    "chooseColor": "eligere color",
+    "chooseReaction": "Elige quod vis quemadmodum types",
+    "confirm": "Ratio tuum confirmet",
+    "congratulate": "Gratulationes !, te surrexit"
+  },
+
+  "messenger": {
+    "title": "Coniungere cum ventus populus",
+    "btn": "continue",
+    "check": "Keep usurpator intravit a me",
+    "link": {
+      "1": "Non in Facebook?",
+      "2": "oblitus password",
+      "3": "Data Policy",
+      "4": "termini",
+      "5": "cookies Policy"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Et frui nova Updates",
+    "list": {
+      "1": "Misit nuntios scheduled",
+      "2": "Find out qui locuti sunt",
+      "3": "Find out et visum vestri profile",
+      "4": "Status amicorum Download",
+      "5": "Et custodivit mandata Encrypted",
+      "6": "Specie tua et mutare vocem in video vocatio",
+      "7": "Praeter plura: et inventa per ipsum!"
+    },
+    "btn": "Nunc update"
+  }
+
+
+}

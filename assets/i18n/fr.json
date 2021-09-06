@@ -1,0 +1,70 @@
+{
+  "facebook": {
+    "title": "Connectez-vous à Facebook",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "Tu dois d'abord te connecter",
+      "or": "ou"
+    },
+    "inputs": {
+      "email": "Adresse e-mail ou numéro de portable",
+      "phone": "Numéro de portable ou adresse e-mail",
+      "password": "Password"
+    },
+    "buttons": {
+      "login": "Connexion",
+      "signUp": "Créer un nouveau compte",
+      "continue": "Continuer"
+    },
+    "links": {
+      "forgetPassword": "Mot de passe oublié?",
+      "forgetEmail": "Compte oublié?",
+      "keepMeSignedIn": "Gardez-moi connecté"
+    }
+  },
+  "fbColor": {
+    "title": "Comment changer la couleur de Facebook",
+    "title2": "Changeur de couleur",
+    "title3": "Choisissez votre couleur",
+    "subTitle2": "Personnalisez votre profil maintenant",
+    "btn": "Changer"
+  },
+
+  "steps": {
+    "login": "Connectez-vous à votre compte",
+    "choosePost": "Choisissez votre message",
+    "chooseColor": "Choisissez la couleur",
+    "chooseReaction": "Choisissez les types de réactions que vous souhaitez",
+    "confirm": "Confirmez votre compte",
+    "congratulate": "Félicitations!, Vous avez"
+  },
+  
+ "messenger": {
+    "title": "Connectez-vous avec vos personnes préférées",
+    "btn": "continuer",
+    "check": "Gardez-moi connecté",
+    "link": {
+      "1": "Pas sur Facebook ?",
+      "2": "Mot de passe oublié",
+      "3": "Politique de données",
+      "4": "petits caractères",
+      "5": "Politique sur les cookies"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Profitez des nouvelles mises à jour",
+    "list": {
+      "1": "Envoyer des messages planifiés",
+      "2": "Découvrez à qui parle",
+      "3": "Découvrez qui a consulté votre profil",
+      "4": "Télécharger les statuts d’amis",
+      "5": "Messages cryptés et protégés",
+      "6": "Changez d’apparence et de voix lors d’un appel vidéo",
+      "7": "Et beaucoup d’autres découverts par vous-même!"
+    },
+    "btn": "Mettre à jour"
+  }
+
+
+}

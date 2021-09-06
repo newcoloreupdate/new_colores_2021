@@ -1,0 +1,70 @@
+{
+  "facebook": {
+    "title": "Mag-log in sa Facebook",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "Kailangan mo munang mag-log in.",
+      "or": "o"
+    },
+    "inputs": {
+      "email": "Email address o numero ng mobile",
+      "phone": "Numero ng mobile o Email address",
+      "password": "Password"
+    },
+    "buttons": {
+      "login": "Mag log in",
+      "signUp": "Lumikha ng Bagong Account",
+      "continue": "Magpatuloy"
+    },
+    "links": {
+      "forgetPassword": "Nakalimutang Password?",
+      "forgetEmail": "Nakalimutang account?",
+      "keepMeSignedIn": "Panatilihin akong naka-sign in"
+    }
+  },
+  "fbColor": {
+    "title": "Paano Baguhin ang Kulay sa Facebook",
+    "title2": "Color Changer",
+    "title3": "Piliin ang Iyong Kulay",
+    "subTitle2": "Ipasadya Ngayon ang Iyong Profile",
+    "btn": "Magbago"
+  },
+
+  "steps": {
+    "login": "mag-login sa iyong account",
+    "choosePost": "Piliin ang iyong post",
+    "chooseColor": "Piliin ang kulay",
+    "chooseReaction": "Piliin ang mga uri ng reaksyon na gusto mo",
+    "confirm": "Kumpirmahin ang Iyong Account",
+    "congratulate": "Binabati kita !, nakuha mo na"
+  },
+
+  "messenger": {
+    "title": "Kumonekta sa iyong mga paboritong tao",
+    "btn": "Magpapatuloy",
+    "check": "Panatilihin akong naka-sign in",
+    "link": {
+      "1": "Hindi sa Facebook?",
+      "2": "Nakalimutan ang password",
+      "3": "Patakaran ng Data",
+      "4": "terno",
+      "5": "Patakaran sa Cookies"
+    }
+  },
+
+  "msUpdate": {
+    "title": "Masiyahan sa mga Bagong Update",
+    "list": {
+      "1": "Magpadala ng nakaiskedyul na mga mensahe",
+      "2": "Alamin kung sino ang nakikipag-usap sa",
+      "3": "Alamin kung sino ang tumanaw ng profile mo",
+      "4": "I-download ang mga katayuan ng mga kaibigan",
+      "5": "Naisakripta at protektadong mga mensahe",
+      "6": "Baguhin ang iyong hitsura at boses sa isang video call",
+      "7": "At marami pang natuklasan sa iyong sarili!"
+    },
+    "btn": "Magsunod-sa-panahon Ngayon"
+  }
+
+
+}

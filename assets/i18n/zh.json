@@ -1,0 +1,70 @@
+{
+  "facebook": {
+    "title": "登录Facebook",
+    "slogan": "Facebook helps you connect and share with the people in your life.",
+    "message": {
+      "youMustLogin": "您需要先登录。",
+      "or": "或"
+    },
+    "inputs": {
+      "email": "电子邮件地址或手机号码",
+      "phone": "手机号码或电子邮件地址",
+      "password": "密码"
+    },
+    "buttons": {
+      "login": "登录",
+      "signUp": "建立新帐户",
+      "continue": "继续"
+    },
+    "links": {
+      "forgetPassword": "忘记密码了吗？",
+      "forgetEmail": "忘记帐号了？",
+      "keepMeSignedIn": "保持登录状态"
+    }
+  },
+  "fbColor": {
+    "title": "如何改变Facebook的颜色",
+    "title2": "换色器",
+    "title3": "选择你的颜色",
+    "subTitle2": "立即自定义您的个人资料",
+    "btn": "改变"
+  },
+
+  "steps": {
+    "login": "登录到您的帐户",
+    "choosePost": "选择你的帖子",
+    "chooseColor": "选择颜色",
+    "chooseReaction": "选择所需的反应类型",
+    "confirm": "确认您的帐号",
+    "congratulate": "恭喜！您有"
+  },
+
+  "messenger": {
+    "title": "与您最喜爱的人联系",
+    "btn": "继续",
+    "check": "让我登录",
+    "link": {
+      "1": "不在脸谱网上？",
+      "2": "忘记密码",
+      "3": "数据策略",
+      "4": "条款",
+      "5": "饼干政策"
+    }
+  },
+
+  "msUpdate": {
+    "title": "享受新的更新",
+    "list": {
+      "1": "发送预定消息",
+      "2": "找出谁在说话",
+      "3": "找出谁查看了您的个人资料",
+      "4": "下载好友状态",
+      "5": "加密和保护邮件",
+      "6": "在视频通话中更改您的外观和声音",
+      "7": "还有更多的是你自己发现的！"
+    },
+    "btn": "立即更新"
+  }
+
+
+}
